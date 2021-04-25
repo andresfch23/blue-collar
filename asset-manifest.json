@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/blue-collar/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/blue-collar/static/js/main.969e9529.chunk.js",
+    "main.js.map": "/blue-collar/static/js/main.969e9529.chunk.js.map",
+    "runtime-main.js": "/blue-collar/static/js/runtime-main.b86d1851.js",
+    "runtime-main.js.map": "/blue-collar/static/js/runtime-main.b86d1851.js.map",
+    "static/js/2.da5386d8.chunk.js": "/blue-collar/static/js/2.da5386d8.chunk.js",
+    "static/js/2.da5386d8.chunk.js.map": "/blue-collar/static/js/2.da5386d8.chunk.js.map",
+    "static/js/3.e6f135e0.chunk.js": "/blue-collar/static/js/3.e6f135e0.chunk.js",
+    "static/js/3.e6f135e0.chunk.js.map": "/blue-collar/static/js/3.e6f135e0.chunk.js.map",
+    "index.html": "/blue-collar/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/blue-collar/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.da5386d8.chunk.js.LICENSE.txt": "/blue-collar/static/js/2.da5386d8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/blue-collar/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b86d1851.js",
+    "static/js/2.da5386d8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.969e9529.chunk.js"
+  ]
+}
